@@ -96,6 +96,7 @@ nav ul li a:hover::after {
 }
 
 .about-col-1 img {
+  margin-top: 50px;
   width: 100%;
   border-radius: 15px;
 }
